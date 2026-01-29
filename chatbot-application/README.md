@@ -1,7 +1,5 @@
 # chatbot-application
-Your friendly personal assistant powered by OpenAI
-
-Here’s a detailed README file template for your project. This template covers the main aspects of your project, including an overview, installation steps, usage instructions, and more. You can customize it further according to your project’s specifics.
+AI chatbot
 
 ---
 
